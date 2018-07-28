@@ -11,8 +11,4 @@ The code produces videos which allows the user to view the AI's progression in t
 This project uses Python 2. You will need PyTorch, Numpy, Matplotlib, openAI gym, doom-py, and so on. I used Spyder on Anaconda to code this. Just fork the repo, download and play!
 
 
-## Acknowledgments
-
-A-Z AI for the Udemy course
-
 
